@@ -1,0 +1,1 @@
+A Project Which will combine with JPA and SessionFactory. Useful in case of legacy applications where new components can be written using JPA and integrated with legacy.
